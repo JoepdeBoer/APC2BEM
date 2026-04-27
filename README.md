@@ -21,7 +21,7 @@ By default, units are in `inches`, but a scale factor option `-s` can be provide
 ### Importing in OpenVSP
 After importing the `BEM` file into OpenVSP, set the following **Propeller** ⎡**Design**⎤ properties:
 * **Construction X/C** `0.000`
-* **Feather Axis** `0.125`
+* **Feather Axis** `0.000`
 
 And set the **Propeller** ⎡**XSec**⎤ properties according to the `PE0` file.
 ```
